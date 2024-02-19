@@ -1,0 +1,22 @@
+Crear repositorio
+
+git init
+
+git add .
+
+git commit -m 'comentario'
+
+git branch -M main
+
+git remote add origin https://github.com/niicoquinteros/Curso-UTN.git
+
+git push -u origin main
+
+
+Para actualizar:
+
+git add .
+
+git commit -m 'cambio x'
+
+git push
